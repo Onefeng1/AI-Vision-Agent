@@ -54,7 +54,8 @@ Executes pipeline and outputs:
 
 Below is an AI-generated defect detection result:
 
-![demo](assets/demo.png)
+![demo](<img width="1181" height="1331" alt="ChatGPT Image 2026年5月5日 18_13_20" src="https://github.com/user-attachments/assets/8202013a-bc14-4054-95de-80d2b9f6255e" />
+)
 
 Detected defects include:
 - Scratches
