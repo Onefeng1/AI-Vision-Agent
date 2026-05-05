@@ -54,7 +54,7 @@ Executes pipeline and outputs:
 
 Below is an AI-generated defect detection result:
 
-![demo](./assets/demo.png)
+![demo](assets/demo.png)
 
 Detected defects include:
 - Scratches
