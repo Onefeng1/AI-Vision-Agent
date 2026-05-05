@@ -116,3 +116,8 @@ Detected defects include:
 ## 📬 Contact
 
 Open for collaboration / AI industrial applications.
+## 📝 TODO
+
+- [ ] Support batch image processing
+- [ ] Add GUI interface
+- [ ] Improve parameter auto-tuning
